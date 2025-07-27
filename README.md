@@ -1,2 +1,2 @@
-# hello-world
+# talirey
 This repository is for practicing the GitHub Flow.
