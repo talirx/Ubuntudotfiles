@@ -1,2 +1,1 @@
-# talirey
-This repository is for practicing the GitHub Flow.
+Just a place for my main dotfiles folder
